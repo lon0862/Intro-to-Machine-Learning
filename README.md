@@ -1,20 +1,14 @@
 # Intro-to-Machine-Learning
 Intro to Machine Learning Class in NYCU, 2021.09~2022.01
 ## HW1
-- Regularized linear model regression
-  ```python
-  python3 ./HW1[_class].py <testfile>
+- Naive Bayes classifier
+  ```
+  run hw1_Iris.ipynb
+  run hw1_mushroom.ipynb
   ```
 
 ## HW2
 - Naive Bayes classifier
-  ```python
-  python3 ./HW2_1.py
-  ```
-- Online learning
-  ```python
-  python3 ./HW2_2.py <testfile>
-  ```
 
 ## HW3
 - Sequential Estimator
