@@ -1,0 +1,8 @@
+1.dessert 甜點類
+2.fats&seasoning 油脂類&醬料類
+3.fruits 水果類
+4.grains 五穀根筋類(主食類)
+5.juice 飲料類
+6.meats 蛋豆魚肉類
+7.vegetables 蔬菜類
+
