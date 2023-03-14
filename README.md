@@ -8,8 +8,10 @@ run hw1_mushroom.ipynb
 ```
 
 ## HW2
-- Naive Bayes classifier
-
+Decision Tree & Random Forest & KNN & PCA
+```
+run hw2.ipynb
+```
 ## HW3
 - Sequential Estimator
   ```python
