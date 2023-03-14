@@ -12,25 +12,19 @@ Decision Tree & Random Forest & KNN & PCA
 ```
 run hw2.ipynb
 ```
+
 ## HW3
-- Sequential Estimator
-  ```python
-  python3 ./HW3_1&2.py <mean> <variance>
-  ```
-- Baysian Linear regression
-  ```python
-  python3 ./HW3_3.py
-  ```
+K-means Clustering & Support Vector Machine
+```
+run hw3_seeds_dataset.ipynb
+run hw3_inonsphere.ipynb
+```
 
 ## HW4
-- Logistic regression
-  ```python
-  python3 ./HW4_1.py [<inputfile>]
-  ```
-- EM algorithm
-  ```python
-  python3 ./HW4_2.py
-  ```
+Linear Regression & Logistic Regression
+```
+run hw4.ipynb
+```
 
 ## HW5
 - Gaussian Process
