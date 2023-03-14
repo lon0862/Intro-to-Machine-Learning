@@ -27,11 +27,7 @@ run hw4.ipynb
 ```
 
 ## HW5
-- Gaussian Process
-  ```python
-  python3 ./HW5_1.py
-  ```
-- SVM on MNIST dataset
-  ```python
-  python3 ./HW5_2.py {1|2|3}
-  ```
+Artificial Neural Networks
+```
+run hw5.ipynb
+```
