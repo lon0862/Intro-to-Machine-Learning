@@ -1,7 +1,7 @@
 # Intro-to-Machine-Learning
 Intro to Machine Learning Class in NYCU, 2021.09~2022.01
 ## HW1
-- Naive Bayes classifier
+Naive Bayes classifier
 ```
 run hw1_Iris.ipynb
 run hw1_mushroom.ipynb
