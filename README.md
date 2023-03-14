@@ -31,3 +31,9 @@ Artificial Neural Networks
 ```
 run hw5.ipynb
 ```
+
+## final_project
+using one cuban's daily eating habits open dataset to preprocess and label, goal to classification food categority, and using Decision Tree,Random Forest,KNN to compare performance
+```
+run final_project.ipynb
+```
